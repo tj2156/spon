@@ -1,3 +1,3 @@
 # spon
 
-data brick
+data bricks
